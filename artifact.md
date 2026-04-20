@@ -35,10 +35,10 @@ You can listen to the full code review walkthrough here:
 ## Project Files
 
 ### Enhanced Artifact (Final Version)
-- [Enhanced Sensor Monitor Project](enhanced/)
+- [Enhanced Sensor Monitor Project](enhanced/SensorMonitor.zip)
 
 ### Original Artifact (CS‑360 Version)
-- [Original Project](original/)
+- [Original Project](original/CS360Original.zip)
 
 ### Narratives
 - [Enhancement One Narrative](narratives/Enhancement%20One%20Narrative.docx)  
