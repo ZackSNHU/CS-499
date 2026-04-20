@@ -22,12 +22,32 @@ Across all three enhancements, I met the course outcomes I planned for. I demons
 ![History Screen](media/screenshots/history.png)
 ![File Tree](media/screenshots/filetree.png)
 
-## Code and Resources
+---
 
-- [Original Project](original/)  
-- [Enhanced Project](enhanced/)  
-- [Enhancement Narratives](narratives/)
-  
 ## Code Review (Audio)
-[Download / Listen to Code Review](media/code_review.mp3)
 
+You can listen to the full code review walkthrough here:
+
+[**Download / Listen to Code Review (MP3)**](media/code_review.mp3)
+
+---
+
+## Project Files
+
+### Enhanced Artifact (Final Version)
+- [Enhanced Sensor Monitor Project](enhanced/)
+
+### Original Artifact (CS‑360 Version)
+- [Original Project](original/)
+
+### Narratives
+- [Enhancement One Narrative](narratives/Enhancement%20One%20Narrative.docx)  
+- [Enhancement Two Narrative](narratives/Enhancement%20Two%20Narrative.docx)  
+- [Enhancement Three Narrative](narratives/Enhancement%20Three%20Narrative.docx)  
+- [Combined Final Artifact Narrative](narratives/Final%20Artifact%20Narrative.docx)
+
+---
+
+## Navigation
+
+- [Back to Home (Self‑Assessment)](index.md)
